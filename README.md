@@ -4,7 +4,7 @@
 
 **`Desenvolvedor Back-End`**
 
-👋 Olá, sou Nicolas Pádua Ferraz um desenvolvedor back-end apaixonado por tecnologia e programação. 
+👋 Olá, sou um desenvolvedor back-end apaixonado por tecnologia e programação. 
 Com experiência em desenvolvimento de APIs RESTful, integração de sistemas e criação de soluções inovadoras, 
 busco sempre otimizar processos e entregar resultados de alto impacto. 
 Meu foco está em criar projetos que vão além do funcionamento — que resolvam problemas reais com eficiência, dando um UP no seu negócio e impulsionando resultados.
