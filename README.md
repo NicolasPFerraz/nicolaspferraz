@@ -94,19 +94,3 @@ Meu foco está em criar projetos que vão além do funcionamento — que resolva
 />
 <br>
 <br>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=nicolaspferraz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-</p>
-# learning
-# learning
-# nicolaspferraz
