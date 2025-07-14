@@ -23,9 +23,7 @@ Utilizo ferramentas de **inteligência artificial** para:
 
 Entregar projetos que **resolvam problemas reais** com eficiência e gerem **impacto direto nos resultados**.
 
----
-
-### 🤖 Tecnologias e Linguagens
+## 🤖 Tecnologias e Linguagens
 
 <img 
     align="left" 
