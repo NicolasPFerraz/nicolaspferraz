@@ -2,29 +2,12 @@
           
 # 👨‍💻 Nicolas Ferraz
 
-**`Desenvolvedor Full Stack`**
+**`Desenvolvedor Back-End`**
 
 👋 Olá, sou Nicolas Pádua Ferraz um desenvolvedor back-end apaixonado por tecnologia e programação. 
 Com experiência em desenvolvimento de APIs RESTful, integração de sistemas e criação de soluções inovadoras, 
 busco sempre otimizar processos e entregar resultados de alto impacto. 
 Meu foco está em criar projetos que vão além do funcionamento — que resolvam problemas reais com eficiência, dando um UP no seu negócio e impulsionando resultados.
-
-<p align="left">
-    <a href="https://github.com/nicolaspferraz?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/nicolaspferraz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/nicolaspferraz?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/nicolaspferraz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ### 🤖 Tecnologias e Linguagens
 
