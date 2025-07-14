@@ -2,12 +2,28 @@
           
 # 👨‍💻 Nicolas Ferraz
 
-**`Desenvolvedor Back-End`**
+# 👋 Olá!
 
-👋 Olá, sou um desenvolvedor back-end apaixonado por tecnologia e programação. 
-Com experiência em desenvolvimento de APIs RESTful, integração de sistemas e criação de soluções inovadoras, 
-busco sempre otimizar processos e entregar resultados de alto impacto. 
-Meu foco está em criar projetos que vão além do funcionamento — que resolvam problemas reais com eficiência, dando um UP no seu negócio e impulsionando resultados.
+Sou um desenvolvedor **back-end** apaixonado por tecnologia e programação.
+
+## 💡 Experiência
+
+- Desenvolvimento de **APIs RESTful**
+- Integração entre sistemas
+- Criação de soluções escaláveis e orientadas a resultados
+
+## 🚀 Produtividade com IA
+
+Utilizo ferramentas de **inteligência artificial** para:
+- Aumentar a produtividade no desenvolvimento
+- Automatizar tarefas repetitivas
+- Apoiar decisões técnicas com mais agilidade
+
+## 🎯 Objetivo
+
+Entregar projetos que **resolvam problemas reais** com eficiência e gerem **impacto direto nos resultados**.
+
+---
 
 ### 🤖 Tecnologias e Linguagens
 
